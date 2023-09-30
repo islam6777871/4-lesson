@@ -1,0 +1,39 @@
+
+
+.a1{
+   margin-top: 70px;
+   display: flexbox;
+   text-align:center;
+margin-left: 200px;
+background-color:white;
+margin-right: 500px;
+
+}
+   
+ .dollar{
+   color: aliceblue;
+   font-size: 50px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   background-color:yellow;
+   border-radius: 90px;
+   padding-top: 40px;
+   padding-bottom: 40px;
+   margin-right: 50px;
+   margin-left: 50px;
+   border-style: double;
+   border-width: 10px;
+ }
+     h2{
+      text-align: center;
+     }
+     
+  .purchase{
+background-color: white;
+  padding-top: 20px;
+   border-radius:40px;
+   margin-left: 40px;
+   margin-right: 40px;
+   border-color: yellow;
+   border-style: outset;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color:yellow;}

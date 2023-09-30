@@ -1,0 +1,88 @@
+.b{
+    display: flexbox;
+    background-color: white;
+margin-top: 70px;
+    text-align: center;
+    margin-left: 650px;
+    padding-left: 20px;
+    padding-right: 20px;
+   
+}
+
+    
+ 
+  
+ 
+   
+   
+   .b0{
+   color: aliceblue;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: blueviolet;
+    border-radius: 90px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-style: double;
+    border-width: 10px;
+   }
+   .b1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+   }
+   .b2{
+    background-color: blueviolet;
+   padding-top: 20px;
+   margin-left: 40px;
+   margin-right: 40px;
+   border-radius:40px;
+    border-color: yellowgreen;
+    border-style: outset;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:yellow;}
+   
+    .c{
+        display: flexbox;
+        background-color: white;
+        text-align: center;
+        margin-left: 650px;
+        padding-left: 10px;
+        padding-right: 20px;
+       margin-top: 70px;
+    }
+    
+        
+     
+      
+     
+       
+       
+       .c0{
+       color: aliceblue;
+        font-size: 50px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        background-color: rgb(5, 229, 57);
+        border-radius: 90px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        margin-left: 50px;
+        margin-right: 50px;
+        border-style: double;
+        border-width: 10px;
+       }
+       .c1{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+       .c3{
+       color: chartreuse;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+        background-color:white;
+        border-radius: 70px;
+        padding-top: 30px;
+        margin-left: 40px;
+        margin-right: 40px;
+        border-style:double;
+        border-color: rgb(99, 221, 6);
+       }
